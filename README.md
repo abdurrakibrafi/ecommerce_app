@@ -8,6 +8,7 @@ This project contains the several features like
 * User Profile
 * Cart Section
 * Chatting Option
+
 As a back-end database it uses **Firebase**
 ## App Screens-
 <p>
