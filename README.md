@@ -1,16 +1,16 @@
 # eshop
+Here this is an ecommarce application,using this app user can buy his product____
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+This project contains the several features like
+* Signin with google
+* User Profile
+* Cart Section
+* Chatting Option
+As a back-end database it uses **Firebase**
+## App Screens-
+<p>
+    <img src="appscreen/Splash.jpg" hspace="10" >
+    <img src="appscreen/spalsh2.jpg" hspace="10" >
+    <img src="appscreen/sing3.jpg" hspace="10" >
+</p>
